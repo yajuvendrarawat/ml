@@ -1,4 +1,10 @@
 pandas
 numpy
-Pylance
--e .
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+#-e .
